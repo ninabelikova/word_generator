@@ -13,7 +13,7 @@ end
 
 
 def welcome
-    puts "Welcome to the random Sarayna's word generator service."
+    puts "Welcome to the random Nina's word generator service."
     puts "Do you want a sentence or just a word?"
     puts "(type in either 'sentence' or 'word')"
     answer = gets.chomp
